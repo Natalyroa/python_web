@@ -1,4 +1,4 @@
-# Llamar librerias antes creadas modelo y vista
+# Llamar librerias antes creadas modelo y vista - clase 5
 
 from modelo import obtener_libros
 from template import renderizar_template

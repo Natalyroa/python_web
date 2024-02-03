@@ -1,4 +1,5 @@
-# id libros
+# id libros clase 5
+
 from modelo import obtener_liros
 
 def mostrar_libros():
