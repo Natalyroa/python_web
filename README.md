@@ -1,4 +1,5 @@
 # python_web
+Esta parte del repocitorio encontrara una serie de ejercicios que se ejecutan por cada clase. esto tiene como fin entender algunas herramientas python para el desarrollo web.
 Los ejercicios se encuentran organizados por clase de la siguiente manera. Los archivos en el directorio principal se muestran solo como evidencia de la evolucion de cada actividad.
 ```
 .
@@ -24,3 +25,6 @@ Los ejercicios se encuentran organizados por clase de la siguiente manera. Los a
 ├── obtener_libro.py
 └── README.md
 ```
+
+
+
