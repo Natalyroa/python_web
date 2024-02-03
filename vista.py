@@ -1,4 +1,4 @@
-# id libros clase 5
+# id libros clase - 5
 
 from modelo import obtener_liros
 
